@@ -1,7 +1,8 @@
 # Fortune in a Pot
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-golden-heron-44-fortune-in-a-pot-ded981e9)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![make.fun · u-golden-heron-44-fortune-in-a-pot-ded981e9](https://make.fun/badge/u-golden-heron-44-fortune-in-a-pot-ded981e9.svg)](https://make.fun/bounty/u-golden-heron-44-fortune-in-a-pot-ded981e9?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-fortune-in-a-pot-ded981e9)
+[![rank](https://make.fun/badge/u-golden-heron-44-fortune-in-a-pot-ded981e9/melatim80186/makefun-u-golden-heron-44-fortune-in-a-pot-ded981e9/rank.svg)](https://make.fun/bounty/u-golden-heron-44-fortune-in-a-pot-ded981e9/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-fortune-in-a-pot-ded981e9)
+[![reward](https://make.fun/badge/u-golden-heron-44-fortune-in-a-pot-ded981e9/melatim80186/makefun-u-golden-heron-44-fortune-in-a-pot-ded981e9/reward.svg)](https://make.fun/bounty/u-golden-heron-44-fortune-in-a-pot-ded981e9?utm_source=github&utm_medium=readme&utm_campaign=u-golden-heron-44-fortune-in-a-pot-ded981e9)
 
 A single-line fortune for a houseplant, written for the
 [Fortune in a Pot](https://make.fun/bounty/u-golden-heron-44-fortune-in-a-pot-ded981e9)
@@ -40,6 +41,20 @@ scorecard: `REVIEW.md` in the work directory.
 - **Deadline:** 2026-11-26 23:35 WIB
 - **Judging:** pairwise rounds by a model playing a gardener of thirty years;
   the fortune that would delight the plant's keeper most wins.
+
+## Badges
+
+The three badges at the top are live make.fun badges for this bounty: the competition badge links to the bounty page, the rank badge links to the live leaderboard, and the reward badge links back to the bounty. They update as the entry is graded and ranked, so this README always shows where the fortune stands.
+
+## How it was chosen
+
+Twelve candidates were drafted and scored over three review rounds on
+funniness, surprise payoff, specificity, and clarity, and checked
+against the 7 live submissions so it is not a near-duplicate of any of
+them. The winner speaks directly to the plant: its leaves are its
+ears, the kitchen is its world, and the joke lands on the plant
+keeping every secret. Full scorecard: `REVIEW.md` in the work
+directory.
 
 ## License
 
